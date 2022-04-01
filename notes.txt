@@ -1,0 +1,5 @@
+Starts at 15:54
+"What's the probability of winning the lottery in the UK at the moment?"
+"45 million, roughly"
+"the probability is 0.0000022%"
+"But let's say along the way while I'm working it out, for strange reasons I go 'oh you know what, I'm going to ignore all the options which are all square numbers. You know, I just can't be bothered including them. Yeah, they're legitimate lottery tickets, but just to make the maths easier I'm going to ignore them'. And people are getting up in arms, and they're like 'you can't ignore them, they're real options'. Well, that changes the probability from being 0.00000221939% to being 0.00000221939%, it's identical. Just because I ruled out those options. Even if I said I'm going to ignore all the tickets which are all odd numbers, it's still 0.0000022%. It hasn't changed. Even if I say I'm going to ignore all the lottery tickets that have a 7 on them, the number 7, which is a lot, over half a million, it's still 0.000002%, little bit different. Instead of being 0.0000022, it's 0.0000025."
